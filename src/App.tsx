@@ -157,6 +157,9 @@ export default function App() {
   const heroOpacity = useTransform(scrollYProgress, [0, 0.2], [1, 0]);
   const heroScale = useTransform(scrollYProgress, [0, 0.2], [1, 1.1]);
 
+  // Hook Formspree dipasang di sini
+  const [state, handleSubmit] = useForm('xlgawjnv');
+
   return (
     <div className="min-h-screen selection:bg-gold selection:text-navy">
       <Nav lang={lang} setLang={setLang} />
@@ -467,35 +470,82 @@ export default function App() {
               viewport={{ once: true }}
               className="bg-ice p-12 shadow-2xl"
             >
-              <form className="space-y-6">
-                <div className="grid md:grid-cols-2 gap-6">
-                  <div className="space-y-2">
-                    <label className="text-[10px] uppercase tracking-widest font-bold text-navy/40">{t.contact.form.name}</label>
-                    <input type="text" className="w-full bg-white border-none p-4 text-sm focus:ring-1 focus:ring-gold outline-none" placeholder={t.contact.form.placeholderName} />
+              {/* === LOGIKA FORMSPREE DIMULAI DI SINI === */}
+              {state.succeeded ? (
+                <div className="text-center py-20">
+                  <div className="w-16 h-16 bg-gold/20 rounded-full flex items-center justify-center mx-auto mb-6">
+                    <HeartHandshake className="text-gold" size={32} />
+                  </div>
+                  <h3 className="text-2xl font-serif text-navy mb-4">Terima Kasih</h3>
+                  <p className="text-navy/60 leading-relaxed">
+                    Pesan Anda telah kami terima dengan baik. Tim Eri Rossatria Law Firm akan segera menganalisa dan menghubungi Anda.
+                  </p>
+                </div>
+              ) : (
+                <form onSubmit={handleSubmit} className="space-y-6">
+                  <div className="grid md:grid-cols-2 gap-6">
+                    <div className="space-y-2">
+                      <label className="text-[10px] uppercase tracking-widest font-bold text-navy/40">{t.contact.form.name}</label>
+                      <input 
+                        id="name"
+                        name="name"
+                        type="text" 
+                        required
+                        className="w-full bg-white border-none p-4 text-sm focus:ring-1 focus:ring-gold outline-none" 
+                        placeholder={t.contact.form.placeholderName} 
+                      />
+                      <ValidationError prefix="Name" field="name" errors={state.errors} className="text-red-500 text-xs mt-1" />
+                    </div>
+                    <div className="space-y-2">
+                      <label className="text-[10px] uppercase tracking-widest font-bold text-navy/40">{t.contact.form.email}</label>
+                      <input 
+                        id="email"
+                        name="email"
+                        type="email" 
+                        required
+                        className="w-full bg-white border-none p-4 text-sm focus:ring-1 focus:ring-gold outline-none" 
+                        placeholder={t.contact.form.placeholderEmail} 
+                      />
+                      <ValidationError prefix="Email" field="email" errors={state.errors} className="text-red-500 text-xs mt-1" />
+                    </div>
                   </div>
                   <div className="space-y-2">
-                    <label className="text-[10px] uppercase tracking-widest font-bold text-navy/40">{t.contact.form.email}</label>
-                    <input type="email" className="w-full bg-white border-none p-4 text-sm focus:ring-1 focus:ring-gold outline-none" placeholder={t.contact.form.placeholderEmail} />
+                    <label className="text-[10px] uppercase tracking-widest font-bold text-navy/40">{t.contact.form.matter}</label>
+                    <select 
+                      id="matter"
+                      name="matter"
+                      className="w-full bg-white border-none p-4 text-sm focus:ring-1 focus:ring-gold outline-none appearance-none"
+                    >
+                      <option value="PT PMA / Corporate Defense">PT PMA / Corporate Defense</option>
+                      <option value="Labor Law">Labor Law</option>
+                      <option value="Criminal / Tipikor">Criminal / Tipikor</option>
+                      <option value="Family Law">Family Law</option>
+                      <option value="Other">Other</option>
+                    </select>
+                    <ValidationError prefix="Matter" field="matter" errors={state.errors} className="text-red-500 text-xs mt-1" />
                   </div>
-                </div>
-                <div className="space-y-2">
-                  <label className="text-[10px] uppercase tracking-widest font-bold text-navy/40">{t.contact.form.matter}</label>
-                  <select className="w-full bg-white border-none p-4 text-sm focus:ring-1 focus:ring-gold outline-none appearance-none">
-                    <option>Corporate Defense</option>
-                    <option>Labor Law</option>
-                    <option>Criminal / Tipikor</option>
-                    <option>Family Law</option>
-                    <option>Other</option>
-                  </select>
-                </div>
-                <div className="space-y-2">
-                  <label className="text-[10px] uppercase tracking-widest font-bold text-navy/40">{t.contact.form.message}</label>
-                  <textarea rows={4} className="w-full bg-white border-none p-4 text-sm focus:ring-1 focus:ring-gold outline-none resize-none" placeholder={t.contact.form.placeholderMessage}></textarea>
-                </div>
-                <button className="w-full bg-navy text-white py-4 text-xs uppercase tracking-[0.2em] font-bold hover:bg-gold transition-all duration-500 shadow-xl">
-                  {t.contact.form.send}
-                </button>
-              </form>
+                  <div className="space-y-2">
+                    <label className="text-[10px] uppercase tracking-widest font-bold text-navy/40">{t.contact.form.message}</label>
+                    <textarea 
+                      id="message"
+                      name="message"
+                      rows={4} 
+                      required
+                      className="w-full bg-white border-none p-4 text-sm focus:ring-1 focus:ring-gold outline-none resize-none" 
+                      placeholder={t.contact.form.placeholderMessage}
+                    ></textarea>
+                    <ValidationError prefix="Message" field="message" errors={state.errors} className="text-red-500 text-xs mt-1" />
+                  </div>
+                  <button 
+                    type="submit" 
+                    disabled={state.submitting}
+                    className="w-full bg-navy text-white py-4 text-xs uppercase tracking-[0.2em] font-bold hover:bg-gold transition-all duration-500 shadow-xl disabled:opacity-50 disabled:cursor-not-allowed"
+                  >
+                    {state.submitting ? "MENGIRIM..." : t.contact.form.send}
+                  </button>
+                </form>
+              )}
+              {/* === LOGIKA FORMSPREE SELESAI === */}
             </motion.div>
           </div>
         </div>
