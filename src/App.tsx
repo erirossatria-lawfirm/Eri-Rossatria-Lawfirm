@@ -3,6 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
+import { useForm, ValidationError } from '@formspree/react';
 import { motion, useScroll, useTransform } from "motion/react";
 import React, { useState, useEffect } from "react";
 import { translations } from "./translations";
