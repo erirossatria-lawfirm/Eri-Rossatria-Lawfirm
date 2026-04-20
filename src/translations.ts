@@ -57,6 +57,11 @@ export const translations = {
           quote: "Sengketa bisnis yang tidak ditangani dengan tepat bisa menghancurkan apa yang Anda bangun bertahun-tahun."
         },
         {
+          title: "Investasi Asing & Pendirian PT PMA",
+          desc: "Navigasi regulasi investasi bagi pemodal asing di Indonesia. Mendampingi dari struktur permodalan, perizinan, hingga operasional legal.",
+          quote: "Kepastian hukum adalah fondasi utama bagi investor untuk membangun bisnis yang aman dan berkelanjutan di tanah air."
+        },
+        {
           title: "Hukum Korporasi & Legal Consulting",
           desc: "Layanan retainer, legal drafting, legal audit, dan advis hukum berkelanjutan untuk berbagai skala industri.",
           quote: "Perusahaan yang kuat bukan hanya soal bisnis yang baik — tapi juga fondasi hukum yang kokoh."
@@ -73,13 +78,8 @@ export const translations = {
         },
         {
           title: "Tindak Pidana & Integritas",
-          desc: "Rekam jejak panjang dalam penanganan perkara hukum dengan pendekatan strategis dan berintegritas.",
+          desc: "Rekam jejak panjang dalam penanganan perkara hukum pidana umum maupun khusus dengan pendekatan strategis.",
           quote: "Menghadapi tantangan hukum membutuhkan pengacara yang tidak hanya paham aturan — tapi juga paham tekanan."
-        },
-        {
-          title: "Bidang Hukum Lainnya",
-          desc: "Perpajakan, Kepailitan, Pertambangan, Kesehatan, Pasar Modal, HAKI, dan Perlindungan Konsumen.",
-          quote: "Spektrum layanan hukum yang komprehensif untuk menjawab tantangan zaman."
         }
       ]
     },
@@ -217,6 +217,11 @@ export const translations = {
           quote: "Business disputes that are not handled properly can destroy what you have built for years."
         },
         {
+          title: "Foreign Investment & PT PMA Establishment",
+          desc: "Navigating investment regulations for foreign investors in Indonesia. Assisting from capital structuring and licensing to legal operations.",
+          quote: "Legal certainty is the primary foundation for investors to build a safe and sustainable business in the country."
+        },
+        {
           title: "Corporate Law & Legal Consulting",
           desc: "Retainer services, legal drafting, legal audit, and ongoing legal advice for various industry scales.",
           quote: "A strong company is not just about good business — but also a solid legal foundation."
@@ -233,13 +238,8 @@ export const translations = {
         },
         {
           title: "Criminal Law & Integrity",
-          desc: "A long track record in handling legal cases with a strategic and high-integrity approach.",
+          desc: "A long track record in handling general and special criminal cases with a strategic approach.",
           quote: "Facing legal challenges requires a lawyer who not only understands the rules — but also understands the pressure."
-        },
-        {
-          title: "Other Legal Fields",
-          desc: "Taxation, Bankruptcy, Mining, Health, Capital Markets, IP, and Consumer Protection.",
-          quote: "A comprehensive spectrum of legal services to answer the challenges of the times."
         }
       ]
     },
