@@ -1,0 +1,36 @@
+name: Auto Generate Context Markdown
+
+# Trigger action ini setiap kali ada push ke branch 'main'
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-context:
+    runs-on: ubuntu-latest
+    
+    # Memberikan izin agar bot GitHub bisa melakukan commit & push
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20' # Menggunakan Node.js versi 20
+
+      - name: Jalankan script pembuat konteks
+        run: node generate-context.js
+
+      - name: Commit dan Push jika ada perubahan
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add "Full Directory dan Script.md"
+          
+          # Cek apakah ada perubahan file. Jika ada, lakukan commit dan push
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto-update context markdown" && git push)
