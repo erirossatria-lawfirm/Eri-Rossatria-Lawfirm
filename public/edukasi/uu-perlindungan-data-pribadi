@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UU Perlindungan Data Pribadi: Panduan Kepatuhan untuk Bisnis | Eri Rossatria Law Firm</title>
+    <meta name="description" content="Panduan praktis kepatuhan UU Perlindungan Data Pribadi (UU PDP) No. 27 Tahun 2022 untuk perusahaan di Indonesia. Sanksi, kewajiban, dan langkah implementasi.">
+    <meta name="keywords" content="UU PDP, perlindungan data pribadi, PDPA Indonesia, kepatuhan data, data breach, DPO, lawyer Jakarta, Eri Rossatria">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: { navy: '#0f172a', gold: '#d4af37', champagne: '#f8f9fa' },
+                    fontFamily: { serif: ['Georgia', 'serif'], sans: ['Inter', 'sans-serif'] }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="bg-champagne text-navy font-sans antialiased selection:bg-gold selection:text-navy">
+
+    <nav class="bg-navy py-6 sticky top-0 z-50 shadow-xl">
+        <div class="max-w-3xl mx-auto px-6 flex justify-between items-center">
+            <a href="/" class="flex flex-col hover:opacity-80 transition-opacity">
+                <span class="text-xl font-serif text-white tracking-tight">ERI ROSSATRIA</span>
+                <span class="text-[10px] uppercase tracking-[0.4em] text-gold font-semibold">Law Firm</span>
+            </a>
+            <a href="/#contact" class="text-xs uppercase tracking-widest text-white hover:text-gold transition-colors">Konsultasi</a>
+        </div>
+    </nav>
+
+    <header class="bg-white py-16 border-b border-gray-200">
+        <div class="max-w-3xl mx-auto px-6 text-center">
+            <p class="text-gold text-xs uppercase tracking-widest font-bold mb-4">Hukum Teknologi & Data</p>
+            <h1 class="text-3xl md:text-5xl font-serif leading-tight mb-6 text-navy">
+                UU Perlindungan Data Pribadi: Apa yang Harus Segera Dilakukan oleh Bisnis Anda
+            </h1>
+            <p class="text-sm text-navy/60 font-medium">Ditulis oleh: Tim Legal Eri Rossatria | 28 April 2026</p>
+        </div>
+    </header>
+
+    <main class="max-w-3xl mx-auto px-6 py-16 bg-white shadow-sm">
+        <article class="prose prose-lg prose-slate max-w-none text-navy/80 leading-relaxed">
+
+            <p class="mb-6">Undang-Undang Perlindungan Data Pribadi (UU PDP) No. 27 Tahun 2022 telah resmi berlaku penuh. Bagi bisnis di Indonesia yang memproses data pribadi — yang berarti hampir semua perusahaan modern — ini bukan lagi sekadar isu IT, melainkan kewajiban hukum korporat dengan sanksi pidana dan perdata yang sangat signifikan.</p>
+            <p class="mb-6">Banyak perusahaan masih beranggapan bahwa UU PDP hanya relevan bagi perusahaan teknologi besar. Kenyataannya, bisnis ritel yang mengumpulkan data pelanggan untuk program loyalitas, klinik yang menyimpan rekam medis digital, atau bahkan startup dengan database email newsletter — semuanya tunduk pada kewajiban yang sama di bawah UU PDP.</p>
+
+            <h2 class="text-2xl font-serif text-navy mt-10 mb-4">Siapa yang Terdampak UU PDP?</h2>
+            <p class="mb-4">UU PDP berlaku bagi setiap Pengendali Data Pribadi (<em>Data Controller</em>) dan Prosesor Data Pribadi (<em>Data Processor</em>) yang beroperasi di wilayah Indonesia, termasuk perusahaan asing yang memproses data warga negara Indonesia meskipun servernya berada di luar Indonesia.</p>
+            <p class="mb-6">Pengendali Data adalah pihak yang menentukan tujuan dan cara pemrosesan data. Prosesor Data adalah pihak yang memproses data atas nama Pengendali Data. Keduanya memiliki kewajiban hukum yang berbeda namun sama-sama diatur oleh UU PDP.</p>
+
+            <h2 class="text-2xl font-serif text-navy mt-10 mb-4">Kewajiban Utama Pengendali Data</h2>
+
+            <h3 class="text-xl font-serif text-navy mt-8 mb-3">1. Dasar Hukum Pemrosesan (<em>Legal Basis</em>)</h3>
+            <p class="mb-6">Setiap pemrosesan data pribadi harus memiliki dasar hukum yang sah: persetujuan eksplisit subjek data, pemenuhan kewajiban kontraktual, kewajiban hukum, kepentingan vital subjek data, kepentingan publik, atau kepentingan legitimate yang telah diuji secara proporsional. Pemrosesan tanpa dasar hukum yang valid adalah pelanggaran langsung terhadap UU PDP.</p>
+
+            <h3 class="text-xl font-serif text-navy mt-8 mb-3">2. Transparansi melalui Kebijakan Privasi</h3>
+            <p class="mb-6">Setiap pengendali data wajib menyediakan informasi yang jelas dan mudah dipahami tentang: identitas dan kontak pengendali data, jenis data yang dikumpulkan, tujuan pemrosesan, berapa lama data disimpan, dan hak-hak subjek data. Kebijakan privasi yang dibuat dalam bahasa hukum yang tidak dipahami oleh pengguna rata-rata tidak memenuhi standar transparansi yang diamanatkan UU PDP.</p>
+
+            <div class="bg-gray-50 p-8 border-l-4 border-gold mt-12 mb-8">
+                <p class="text-sm italic text-navy">"Kebocoran data bukan hanya krisis reputasi — di bawah UU PDP, ia adalah peristiwa hukum yang dapat berujung pada sanksi pidana bagi direksi dan denda hingga 2% dari pendapatan tahunan perusahaan." — Eri Rossatria Law Firm</p>
+            </div>
+
+            <h3 class="text-xl font-serif text-navy mt-8 mb-3">3. Hak-Hak Subjek Data yang Wajib Dipenuhi</h3>
+            <p class="mb-4">UU PDP memberikan hak-hak berikut kepada subjek data yang wajib dapat dipenuhi oleh pengendali data:</p>
+            <p class="mb-2"><strong>Hak Akses:</strong> Subjek data berhak mendapatkan konfirmasi apakah datanya diproses dan salinan data tersebut.</p>
+            <p class="mb-2"><strong>Hak Koreksi:</strong> Subjek data berhak meminta koreksi data yang tidak akurat.</p>
+            <p class="mb-2"><strong>Hak Penghapusan:</strong> Dalam kondisi tertentu, subjek data dapat meminta penghapusan datanya.</p>
+            <p class="mb-6"><strong>Hak Portabilitas:</strong> Subjek data berhak mendapatkan datanya dalam format yang dapat dibaca mesin untuk dipindahkan ke pengendali data lain.</p>
+
+            <h3 class="text-xl font-serif text-navy mt-8 mb-3">4. Kewajiban Notifikasi Kebocoran Data</h3>
+            <p class="mb-6">Dalam hal terjadi kebocoran data yang berpotensi merugikan subjek data, pengendali data wajib memberitahukan kepada lembaga yang berwenang dalam waktu <strong>14 hari kerja</strong> sejak diketahuinya kebocoran tersebut. Keterlambatan notifikasi adalah pelanggaran tersendiri yang menambah beban hukum perusahaan.</p>
+
+            <h2 class="text-2xl font-serif text-navy mt-10 mb-4">Sanksi Pelanggaran UU PDP</h2>
+            <p class="mb-4">UU PDP mengatur sanksi yang cukup berat untuk mendorong kepatuhan:</p>
+            <p class="mb-2"><strong>Sanksi Administratif:</strong> Teguran tertulis, penghentian sementara kegiatan pemrosesan data, penghapusan atau pemusnahan data pribadi, dan/atau denda administratif hingga 2% dari pendapatan tahunan atau penerimaan tahunan terhadap variabel pelanggaran.</p>
+            <p class="mb-6"><strong>Sanksi Pidana:</strong> Pemrosesan data pribadi secara melawan hukum dapat dipidana penjara hingga 5 tahun atau denda hingga Rp 5 miliar, dengan pemidanaan yang dapat diterapkan juga kepada korporasi.</p>
+
+            <h2 class="text-2xl font-serif text-navy mt-10 mb-4">Langkah Implementasi Kepatuhan UU PDP</h2>
+            <p class="mb-2"><strong>1. Audit Data:</strong> Inventarisasi semua data pribadi yang dikumpulkan, diproses, dan disimpan oleh perusahaan.</p>
+            <p class="mb-2"><strong>2. Penilaian Dampak Perlindungan Data (DPIA):</strong> Lakukan untuk aktivitas pemrosesan data berisiko tinggi.</p>
+            <p class="mb-2"><strong>3. Perbarui Kebijakan Privasi dan Formulir Persetujuan:</strong> Pastikan sesuai dengan standar UU PDP.</p>
+            <p class="mb-2"><strong>4. Tunjuk Petugas Pelindungan Data (DPO):</strong> Wajib bagi pengendali data yang melakukan pemrosesan data skala besar.</p>
+            <p class="mb-6"><strong>5. Latih Karyawan:</strong> Kesadaran dan pemahaman karyawan adalah lini pertahanan pertama dalam perlindungan data.</p>
+
+            <h2 class="text-2xl font-serif text-navy mt-10 mb-4">Kesimpulan</h2>
+            <p class="mb-6">Kepatuhan terhadap UU PDP bukan proyek satu kali yang bisa diselesaikan dengan memperbarui kebijakan privasi di website. Ini adalah komitmen berkelanjutan yang memerlukan perubahan cara pandang terhadap data — dari sekadar aset bisnis menjadi aset yang diamanahkan kepada perusahaan oleh pemilik sejatinya: individu yang datanya Anda proses.</p>
+
+        </article>
+
+        <div class="mt-16 pt-10 border-t border-gray-200 text-center">
+            <h3 class="text-2xl font-serif text-navy mb-4">Pastikan Bisnis Anda Sudah Patuh terhadap UU PDP</h3>
+            <p class="text-navy/60 mb-8">Kami menyediakan layanan audit kepatuhan data, penyusunan kebijakan privasi, dan pendampingan implementasi UU PDP.</p>
+            <a href="/#contact" class="inline-block bg-navy text-white px-10 py-4 text-xs uppercase tracking-[0.2em] font-bold hover:bg-gold transition-all duration-300 shadow-xl">
+                Audit Kepatuhan Data
+            </a>
+        </div>
+    </main>
+
+    <footer class="bg-navy py-12 text-center text-white mt-12">
+        <p class="text-[10px] uppercase tracking-widest text-white/40 font-bold">
+            &copy; 2026 Eri Rossatria Law Firm. Semua Hak Dilindungi.
+        </p>
+    </footer>
+
+</body>
+</html>
