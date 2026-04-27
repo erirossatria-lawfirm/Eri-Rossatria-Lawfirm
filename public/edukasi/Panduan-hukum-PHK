@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Panduan Hukum PHK di Indonesia: Hak Pekerja dan Kewajiban Pengusaha | Eri Rossatria Law Firm</title>
+    <meta name="description" content="Panduan komprehensif tentang prosedur PHK yang sesuai hukum di Indonesia, hak pesangon pekerja, dan risiko hukum yang dihadapi pengusaha.">
+    <meta name="keywords" content="PHK, pesangon, hukum ketenagakerjaan, hak pekerja, UU Cipta Kerja, hubungan industrial, lawyer Jakarta, Eri Rossatria">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: { navy: '#0f172a', gold: '#d4af37', champagne: '#f8f9fa' },
+                    fontFamily: { serif: ['Georgia', 'serif'], sans: ['Inter', 'sans-serif'] }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="bg-champagne text-navy font-sans antialiased selection:bg-gold selection:text-navy">
+
+    <nav class="bg-navy py-6 sticky top-0 z-50 shadow-xl">
+        <div class="max-w-3xl mx-auto px-6 flex justify-between items-center">
+            <a href="/" class="flex flex-col hover:opacity-80 transition-opacity">
+                <span class="text-xl font-serif text-white tracking-tight">ERI ROSSATRIA</span>
+                <span class="text-[10px] uppercase tracking-[0.4em] text-gold font-semibold">Law Firm</span>
+            </a>
+            <a href="/#contact" class="text-xs uppercase tracking-widest text-white hover:text-gold transition-colors">Konsultasi</a>
+        </div>
+    </nav>
+
+    <header class="bg-white py-16 border-b border-gray-200">
+        <div class="max-w-3xl mx-auto px-6 text-center">
+            <p class="text-gold text-xs uppercase tracking-widest font-bold mb-4">Hukum Ketenagakerjaan</p>
+            <h1 class="text-3xl md:text-5xl font-serif leading-tight mb-6 text-navy">
+                Panduan Hukum PHK di Indonesia: Apa yang Wajib Diketahui Pengusaha dan Pekerja
+            </h1>
+            <p class="text-sm text-navy/60 font-medium">Ditulis oleh: Tim Legal Eri Rossatria | 27 April 2026</p>
+        </div>
+    </header>
+
+    <main class="max-w-3xl mx-auto px-6 py-16 bg-white shadow-sm">
+        <article class="prose prose-lg prose-slate max-w-none text-navy/80 leading-relaxed">
+
+            <p class="mb-6">Pemutusan Hubungan Kerja (PHK) adalah salah satu tindakan hukum yang paling sensitif dalam hubungan industrial. Bagi pengusaha, PHK yang tidak sesuai prosedur dapat berujung pada kewajiban membayar kompensasi berlipat ganda dan tuntutan pidana. Bagi pekerja, ketidaktahuan tentang hak mereka sering kali mengakibatkan kerugian finansial yang sangat signifikan. Artikel ini menyajikan gambaran komprehensif tentang kerangka hukum PHK di Indonesia pasca UU Cipta Kerja.</p>
+
+            <h2 class="text-2xl font-serif text-navy mt-10 mb-4">Kerangka Hukum PHK di Indonesia</h2>
+            <p class="mb-4">Hukum PHK di Indonesia diatur terutama oleh UU No. 13 Tahun 2003 tentang Ketenagakerjaan sebagaimana diubah oleh UU Cipta Kerja (UU No. 6 Tahun 2023) dan turunannya, khususnya PP No. 35 Tahun 2021 tentang Perjanjian Kerja Waktu Tertentu, Alih Daya, Waktu Kerja dan Istirahat, dan PHK.</p>
+            <p class="mb-6">Prinsip dasar yang harus dipahami: PHK bukan hak sepihak pengusaha. Hukum Indonesia menganut prinsip bahwa PHK harus didahului oleh upaya pencegahan, dan jika tidak dapat dihindari, harus melalui prosedur yang ditetapkan — baik melalui kesepakatan bipartit maupun melalui Lembaga Penyelesaian Perselisihan Hubungan Industrial (LPPHI).</p>
+
+            <h2 class="text-2xl font-serif text-navy mt-10 mb-4">Alasan PHK yang Diakui Hukum</h2>
+            <p class="mb-4">Hukum ketenagakerjaan Indonesia mengakui berbagai alasan PHK yang legitimate, masing-masing dengan konsekuensi kompensasi yang berbeda:</p>
+
+            <h3 class="text-xl font-serif text-navy mt-8 mb-3">Efisiensi dan Restrukturisasi Perusahaan</h3>
+            <p class="mb-6">PHK karena alasan efisiensi memberikan hak kepada pekerja atas pesangon sebesar 2 kali ketentuan, uang penghargaan masa kerja (UPMK) sebesar 1 kali ketentuan, dan uang penggantian hak. Alasan efisiensi harus didukung oleh dokumentasi kondisi keuangan perusahaan yang kuat untuk menghindari tuduhan bahwa efisiensi hanya dijadikan dalih.</p>
+
+            <h3 class="text-xl font-serif text-navy mt-8 mb-3">Pekerja Mengundurkan Diri</h3>
+            <p class="mb-6">Pengunduran diri yang dilakukan atas kemauan sendiri tidak memberikan hak atas pesangon, namun pekerja tetap berhak atas uang pisah (jika diatur dalam PKB/PP) dan uang penggantian hak. Hati-hati: jika pengunduran diri dilakukan di bawah tekanan dari pihak pengusaha, hal ini dapat diklasifikasikan sebagai PHK terselubung yang justru memberatkan pengusaha.</p>
+
+            <h3 class="text-xl font-serif text-navy mt-8 mb-3">Pekerja Melakukan Kesalahan Berat</h3>
+            <p class="mb-6">PHK karena kesalahan berat — seperti penggelapan, penipuan, atau tindak pidana yang dilakukan di tempat kerja — tidak memberikan hak atas pesangon dan UPMK. Namun, pengusaha harus sangat berhati-hati dalam mengkategorikan suatu kesalahan sebagai "berat", karena kualifikasi ini akan diuji secara ketat oleh hakim hubungan industrial.</p>
+
+            <div class="bg-gray-50 p-8 border-l-4 border-gold mt-12 mb-8">
+                <p class="text-sm italic text-navy">"Dalam PHK, prosedur yang benar sama pentingnya dengan alasan yang sah. Satu langkah prosedural yang terlewat dapat mengubah PHK yang sah menjadi PHK yang melanggar hukum." — Eri Rossatria Law Firm</p>
+            </div>
+
+            <h2 class="text-2xl font-serif text-navy mt-10 mb-4">Prosedur PHK yang Wajib Diikuti</h2>
+
+            <h3 class="text-xl font-serif text-navy mt-8 mb-3">Tahap 1: Perundingan Bipartit</h3>
+            <p class="mb-6">Langkah pertama yang wajib ditempuh adalah perundingan langsung antara pengusaha dan pekerja (bipartit). Undang-undang memberikan waktu 30 hari untuk perundingan bipartit. Setiap perundingan harus didokumentasikan dalam risalah perundingan yang ditandatangani kedua pihak.</p>
+
+            <h3 class="text-xl font-serif text-navy mt-8 mb-3">Tahap 2: Mediasi atau Konsiliasi</h3>
+            <p class="mb-6">Jika bipartit gagal, perselisihan dilaporkan ke Dinas Tenaga Kerja untuk proses mediasi oleh mediator pemerintah, atau konsiliasi oleh konsiliator yang dipilih bersama. Mediasi wajib diselesaikan dalam 30 hari kerja.</p>
+
+            <h3 class="text-xl font-serif text-navy mt-8 mb-3">Tahap 3: Pengadilan Hubungan Industrial (PHI)</h3>
+            <p class="mb-6">Jika mediasi tidak menghasilkan kesepakatan, salah satu pihak dapat mengajukan gugatan ke Pengadilan Hubungan Industrial (PHI) di Pengadilan Negeri setempat. PHI wajib memutus perkara dalam 50 hari kerja sejak sidang pertama.</p>
+
+            <h2 class="text-2xl font-serif text-navy mt-10 mb-4">Komponen Kompensasi PHK</h2>
+            <p class="mb-4">Kompensasi PHK terdiri dari tiga komponen utama yang besarannya bervariasi berdasarkan alasan PHK dan masa kerja:</p>
+            <p class="mb-2"><strong>Uang Pesangon (UP):</strong> Dihitung berdasarkan masa kerja, dengan rentang 1 hingga 9 bulan upah untuk masa kerja 8 tahun ke atas.</p>
+            <p class="mb-2"><strong>Uang Penghargaan Masa Kerja (UPMK):</strong> Diberikan untuk pekerja dengan masa kerja minimal 3 tahun, besarannya berjenjang sesuai lama kerja.</p>
+            <p class="mb-6"><strong>Uang Penggantian Hak (UPH):</strong> Mencakup cuti tahunan yang belum diambil, biaya atau ongkos pulang ke tempat asal, dan hal-hal lain yang ditetapkan dalam perjanjian kerja.</p>
+
+            <h2 class="text-2xl font-serif text-navy mt-10 mb-4">Kesimpulan</h2>
+            <p class="mb-6">Baik sebagai pengusaha maupun pekerja, memahami kerangka hukum PHK adalah kewajiban, bukan pilihan. Pengusaha yang mengelola proses PHK dengan benar akan terhindar dari risiko tuntutan hukum yang mahal. Pekerja yang mengetahui hak-haknya akan dapat memastikan pemenuhan hak kompensasi yang semestinya mereka terima.</p>
+
+        </article>
+
+        <div class="mt-16 pt-10 border-t border-gray-200 text-center">
+            <h3 class="text-2xl font-serif text-navy mb-4">Menghadapi Permasalahan PHK atau Ketenagakerjaan?</h3>
+            <p class="text-navy/60 mb-8">Kami mendampingi pengusaha maupun pekerja dalam setiap aspek perselisihan hubungan industrial.</p>
+            <a href="/#contact" class="inline-block bg-navy text-white px-10 py-4 text-xs uppercase tracking-[0.2em] font-bold hover:bg-gold transition-all duration-300 shadow-xl">
+                Konsultasi Ketenagakerjaan
+            </a>
+        </div>
+    </main>
+
+    <footer class="bg-navy py-12 text-center text-white mt-12">
+        <p class="text-[10px] uppercase tracking-widest text-white/40 font-bold">
+            &copy; 2026 Eri Rossatria Law Firm. Semua Hak Dilindungi.
+        </p>
+    </footer>
+
+</body>
+</html>
