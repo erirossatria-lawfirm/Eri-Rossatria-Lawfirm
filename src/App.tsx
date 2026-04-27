@@ -72,7 +72,7 @@ const Nav = ({ lang, setLang }: { lang: 'id' | 'en', setLang: (l: 'id' | 'en') =
     { name: t.practice, href: "#practice" },
     { name: t.trackRecord, href: "#track-record" },
     { name: t.transparency, href: "#transparency" },
-    { name: "Artikel", href: "public/edukasi/Bisnis dan Korporasi" }, // INI YANG DITAMBAHKAN
+    { name: "Artikel", href: "/edukasi/" }, // INI YANG DITAMBAHKAN
     { name: t.contact, href: "#contact" },
   ];
 
@@ -586,7 +586,7 @@ export default function App() {
                 <li><a href="#about" className="hover:text-white transition-colors">{t.nav.about}</a></li>
                 <li><a href="#practice" className="hover:text-white transition-colors">{t.nav.practice}</a></li>
                 <li><a href="#track-record" className="hover:text-white transition-colors">{t.nav.trackRecord}</a></li>
-                <li><a href="/edukasi/risiko-hukum-pma.html" className="hover:text-white transition-colors">Publikasi & Artikel</a></li> {/* INI YANG DITAMBAHKAN */}
+                <li><a href="/edukasi/" className="hover:text-white transition-colors">Publikasi & Artikel</a></li> {/* INI YANG DITAMBAHKAN */}
               </ul>
             </div>
             <div>
