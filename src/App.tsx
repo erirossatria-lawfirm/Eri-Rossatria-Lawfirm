@@ -72,7 +72,7 @@ const Nav = ({ lang, setLang }: { lang: 'id' | 'en', setLang: (l: 'id' | 'en') =
     { name: t.practice, href: "#practice" },
     { name: t.trackRecord, href: "#track-record" },
     { name: t.transparency, href: "#transparency" },
-    { name: "Artikel", href: "/edukasi/" }, // INI YANG DITAMBAHKAN
+    { name: "Artikel", href: "/edukasi/bisnis-korporasi" }, // INI YANG DITAMBAHKAN
     { name: t.contact, href: "#contact" },
   ];
 
