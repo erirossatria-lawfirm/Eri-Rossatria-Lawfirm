@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kontrak Kerja Sama Bisnis: 7 Klausul yang Wajib Ada | Eri Rossatria Law Firm</title>
+    <meta name="description" content="Panduan lengkap 7 klausul krusial yang wajib ada dalam setiap kontrak kerja sama bisnis di Indonesia untuk melindungi kepentingan hukum Anda.">
+    <meta name="keywords" content="kontrak bisnis, perjanjian kerja sama, klausul kontrak, hukum kontrak Indonesia, lawyer Jakarta, Eri Rossatria">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: { navy: '#0f172a', gold: '#d4af37', champagne: '#f8f9fa' },
+                    fontFamily: { serif: ['Georgia', 'serif'], sans: ['Inter', 'sans-serif'] }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="bg-champagne text-navy font-sans antialiased selection:bg-gold selection:text-navy">
+
+    <nav class="bg-navy py-6 sticky top-0 z-50 shadow-xl">
+        <div class="max-w-3xl mx-auto px-6 flex justify-between items-center">
+            <a href="/" class="flex flex-col hover:opacity-80 transition-opacity">
+                <span class="text-xl font-serif text-white tracking-tight">ERI ROSSATRIA</span>
+                <span class="text-[10px] uppercase tracking-[0.4em] text-gold font-semibold">Law Firm</span>
+            </a>
+            <a href="/#contact" class="text-xs uppercase tracking-widest text-white hover:text-gold transition-colors">Konsultasi</a>
+        </div>
+    </nav>
+
+    <header class="bg-white py-16 border-b border-gray-200">
+        <div class="max-w-3xl mx-auto px-6 text-center">
+            <p class="text-gold text-xs uppercase tracking-widest font-bold mb-4">Hukum Kontrak & Perjanjian</p>
+            <h1 class="text-3xl md:text-5xl font-serif leading-tight mb-6 text-navy">
+                Kontrak Kerja Sama Bisnis: 7 Klausul yang Wajib Ada dan Sering Dilupakan
+            </h1>
+            <p class="text-sm text-navy/60 font-medium">Ditulis oleh: Tim Legal Eri Rossatria | 24 April 2026</p>
+        </div>
+    </header>
+
+    <main class="max-w-3xl mx-auto px-6 py-16 bg-white shadow-sm">
+        <article class="prose prose-lg prose-slate max-w-none text-navy/80 leading-relaxed">
+
+            <p class="mb-6">Sebuah perjanjian bisnis yang terlihat sempurna di atas kertas bisa runtuh dalam hitungan bulan jika klausul-klausul kritis tidak disusun dengan hati-hati. Di Indonesia, ribuan sengketa bisnis yang berujung di pengadilan setiap tahunnya berakar dari satu penyebab yang sama: kontrak yang terlalu longgar atau terlalu ambigu untuk memberikan perlindungan nyata.</p>
+            <p class="mb-6">Berikut adalah tujuh klausul yang tidak boleh absen dari kontrak kerja sama bisnis Anda, terlepas dari skala atau jenis usahanya.</p>
+
+            <h2 class="text-2xl font-serif text-navy mt-10 mb-4">1. Definisi dan Interpretasi yang Presisi</h2>
+            <p class="mb-4">Klausul definisi bukanlah formalitas pembuka yang bisa disusun asal-asalan. Setiap istilah teknis, metrik kinerja, dan referensi regulasi yang digunakan dalam kontrak harus didefinisikan secara eksplisit. Kata "segera", "wajar", atau "substansial" adalah bom waktu semantik yang kerap dieksploitasi oleh pihak yang beritikad buruk.</p>
+            <p class="mb-6">Pastikan klausul definisi juga menyebutkan hierarki dokumen: jika ada lampiran atau addendum yang bertentangan dengan isi utama kontrak, dokumen mana yang berlaku? Kejelasan hierarki ini mencegah multiplikasi interpretasi saat sengketa terjadi.</p>
+
+            <h2 class="text-2xl font-serif text-navy mt-10 mb-4">2. Ruang Lingkup Pekerjaan (<em>Scope of Work</em>) yang Terukur</h2>
+            <p class="mb-4">Salah satu pemicu sengketa terbesar adalah perbedaan ekspektasi tentang apa yang termasuk dan tidak termasuk dalam lingkup pekerjaan. Klausul <em>scope of work</em> yang baik bukan hanya mendefinisikan apa yang harus dilakukan, tetapi secara eksplisit menyebutkan apa yang <em>tidak</em> menjadi kewajiban salah satu pihak.</p>
+            <p class="mb-6">Gunakan lampiran teknis yang terperinci daripada deskripsi umum di badan utama kontrak. Untuk kontrak jangka panjang, sertakan mekanisme <em>change order</em> yang jelas agar setiap perubahan ruang lingkup dapat diakomodasi tanpa harus menandatangani ulang seluruh perjanjian.</p>
+
+            <h2 class="text-2xl font-serif text-navy mt-10 mb-4">3. Ketentuan Pembayaran dan Sanksi Keterlambatan</h2>
+            <p class="mb-4">Klausul pembayaran yang baik tidak cukup hanya menyebutkan nominal dan tanggal jatuh tempo. Ia harus memuat: metode pembayaran yang diterima, mata uang yang berlaku (kritis untuk kontrak dengan pihak asing), dan secara spesifik, bunga atau denda keterlambatan yang akan dikenakan.</p>
+            <p class="mb-6">Di Indonesia, klausul denda keterlambatan harus dirumuskan dengan cermat agar tidak dikategorikan sebagai perjanjian yang mengandung unsur riba atau bertentangan dengan prinsip-prinsip kepatutan yang dikenal dalam Pasal 1338 KUH Perdata.</p>
+
+            <div class="bg-gray-50 p-8 border-l-4 border-gold mt-12 mb-8">
+                <p class="text-sm italic text-navy">"Kontrak yang baik bukan yang paling panjang, melainkan yang paling jelas. Ambiguitas adalah biaya tersembunyi terbesar dalam setiap perjanjian bisnis." — Eri Rossatria Law Firm</p>
+            </div>
+
+            <h2 class="text-2xl font-serif text-navy mt-10 mb-4">4. Klausul Kerahasiaan (<em>Confidentiality</em>) dan Perlindungan Data</h2>
+            <p class="mb-4">Dengan berlakunya Undang-Undang Perlindungan Data Pribadi (UU PDP) No. 27 Tahun 2022, klausul kerahasiaan kini harus diintegrasikan dengan kewajiban perlindungan data pribadi. Kontrak yang tidak mengatur hal ini berpotensi menciptakan tanggung jawab hukum bagi kedua pihak berdasarkan UU PDP.</p>
+            <p class="mb-6">Klausul kerahasiaan yang komprehensif harus mendefinisikan: apa yang diklasifikasikan sebagai informasi rahasia, berapa lama kewajiban kerahasiaan berlaku setelah kontrak berakhir, dan pengecualian apa yang diperbolehkan (misalnya, pengungkapan yang diwajibkan oleh regulasi).</p>
+
+            <h2 class="text-2xl font-serif text-navy mt-10 mb-4">5. Klausul Keadaan Memaksa (<em>Force Majeure</em>)</h2>
+            <p class="mb-4">Pandemi COVID-19 mengajarkan dunia bisnis secara keras tentang pentingnya klausul <em>force majeure</em> yang well-drafted. Banyak kontrak di Indonesia hanya mencantumkan daftar kejadian <em>force majeure</em> yang sangat generik, tanpa menetapkan prosedur notifikasi, batas waktu klaim, dan konsekuensi hukum jika kondisi tersebut berlangsung melampaui periode tertentu.</p>
+            <p class="mb-6">Klausul <em>force majeure</em> modern juga perlu mempertimbangkan gangguan rantai pasokan, sanksi internasional, dan perubahan regulasi mendadak sebagai kejadian yang dapat membebaskan para pihak dari kewajiban kontraktual.</p>
+
+            <h2 class="text-2xl font-serif text-navy mt-10 mb-4">6. Mekanisme Penyelesaian Sengketa</h2>
+            <p class="mb-4">Klausul penyelesaian sengketa harus menetapkan urutan eskalasi yang jelas: negosiasi langsung, mediasi, baru kemudian arbitrase atau litigasi. Untuk kontrak dengan nilai signifikan, arbitrase internasional melalui SIAC atau ICC seringkali lebih disukai dibandingkan litigasi di pengadilan negeri Indonesia karena proses yang lebih cepat dan putusan yang dapat dieksekusi secara internasional.</p>
+            <p class="mb-6">Jika memilih litigasi, tentukan pengadilan mana yang berwenang (<em>choice of jurisdiction</em>) dan hukum mana yang berlaku (<em>choice of law</em>) — terutama penting dalam kontrak lintas negara.</p>
+
+            <h2 class="text-2xl font-serif text-navy mt-10 mb-4">7. Klausul Pengakhiran dan Konsekuensinya</h2>
+            <p class="mb-4">Kontrak yang baik harus mengatur dengan detail bagaimana hubungan bisnis dapat diakhiri — baik secara sepihak (<em>termination for convenience</em>) maupun karena pelanggaran (<em>termination for cause</em>). Masing-masing harus memiliki prosedur pemberitahuan dan konsekuensi finansial yang berbeda.</p>
+            <p class="mb-6">Jangan lupa untuk memasukkan klausul <em>survival</em> yang menetapkan kewajiban-kewajiban mana yang tetap berlaku setelah kontrak berakhir — seperti kewajiban kerahasiaan, larangan kompetisi, dan penyelesaian kewajiban pembayaran yang tertunda.</p>
+
+            <h2 class="text-2xl font-serif text-navy mt-10 mb-4">Kesimpulan</h2>
+            <p class="mb-6">Menyusun kontrak yang komprehensif memang membutuhkan waktu dan biaya lebih di awal. Namun biaya tersebut tidak sebanding dengan kerugian yang timbul dari sengketa kontraktual yang berlarut-larut. Investasi dalam pendampingan hukum untuk kontrak bisnis Anda adalah keputusan paling hemat biaya yang dapat Anda buat sebagai pelaku usaha.</p>
+
+        </article>
+
+        <div class="mt-16 pt-10 border-t border-gray-200 text-center">
+            <h3 class="text-2xl font-serif text-navy mb-4">Ingin Kontrak Bisnis Anda Diperiksa atau Disusun dari Awal?</h3>
+            <p class="text-navy/60 mb-8">Tim kami spesialis dalam penyusunan dan review kontrak komersial untuk perusahaan lokal maupun asing.</p>
+            <a href="/#contact" class="inline-block bg-navy text-white px-10 py-4 text-xs uppercase tracking-[0.2em] font-bold hover:bg-gold transition-all duration-300 shadow-xl">
+                Jadwalkan Konsultasi
+            </a>
+        </div>
+    </main>
+
+    <footer class="bg-navy py-12 text-center text-white mt-12">
+        <p class="text-[10px] uppercase tracking-widest text-white/40 font-bold">
+            &copy; 2026 Eri Rossatria Law Firm. Semua Hak Dilindungi.
+        </p>
+    </footer>
+
+</body>
+</html>
