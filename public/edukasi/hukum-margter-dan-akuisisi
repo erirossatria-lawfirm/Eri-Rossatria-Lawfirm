@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Panduan Hukum Merger dan Akuisisi (M&A) di Indonesia | Eri Rossatria Law Firm</title>
+    <meta name="description" content="Panduan hukum lengkap untuk proses merger dan akuisisi (M&A) perusahaan di Indonesia: due diligence, struktur transaksi, regulasi, dan risiko hukum.">
+    <meta name="keywords" content="merger akuisisi, M&A Indonesia, due diligence, akuisisi saham, hukum korporat, transaksi bisnis, lawyer Jakarta, Eri Rossatria">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: { navy: '#0f172a', gold: '#d4af37', champagne: '#f8f9fa' },
+                    fontFamily: { serif: ['Georgia', 'serif'], sans: ['Inter', 'sans-serif'] }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="bg-champagne text-navy font-sans antialiased selection:bg-gold selection:text-navy">
+
+    <nav class="bg-navy py-6 sticky top-0 z-50 shadow-xl">
+        <div class="max-w-3xl mx-auto px-6 flex justify-between items-center">
+            <a href="/" class="flex flex-col hover:opacity-80 transition-opacity">
+                <span class="text-xl font-serif text-white tracking-tight">ERI ROSSATRIA</span>
+                <span class="text-[10px] uppercase tracking-[0.4em] text-gold font-semibold">Law Firm</span>
+            </a>
+            <a href="/#contact" class="text-xs uppercase tracking-widest text-white hover:text-gold transition-colors">Konsultasi</a>
+        </div>
+    </nav>
+
+    <header class="bg-white py-16 border-b border-gray-200">
+        <div class="max-w-3xl mx-auto px-6 text-center">
+            <p class="text-gold text-xs uppercase tracking-widest font-bold mb-4">Hukum Korporasi & Transaksi</p>
+            <h1 class="text-3xl md:text-5xl font-serif leading-tight mb-6 text-navy">
+                Merger dan Akuisisi di Indonesia: Panduan Hukum dari Due Diligence hingga Penutupan Transaksi
+            </h1>
+            <p class="text-sm text-navy/60 font-medium">Ditulis oleh: Tim Legal Eri Rossatria | 29 April 2026</p>
+        </div>
+    </header>
+
+    <main class="max-w-3xl mx-auto px-6 py-16 bg-white shadow-sm">
+        <article class="prose prose-lg prose-slate max-w-none text-navy/80 leading-relaxed">
+
+            <p class="mb-6">Transaksi merger dan akuisisi (M&A) adalah salah satu keputusan strategis paling besar yang dapat dibuat oleh sebuah perusahaan. Di Indonesia, kompleksitas regulasi — yang mencakup hukum korporat, persaingan usaha, ketenagakerjaan, pertanahan, dan perizinan sektoral — menjadikan pendampingan hukum yang kompeten bukan sekadar tambahan, melainkan komponen esensial dari setiap proses M&A yang sukses.</p>
+
+            <h2 class="text-2xl font-serif text-navy mt-10 mb-4">Memilih Struktur Transaksi yang Tepat</h2>
+            <p class="mb-4">Keputusan pertama dan paling strategis dalam setiap M&A adalah memilih struktur transaksi yang tepat. Di Indonesia, terdapat dua struktur utama:</p>
+
+            <h3 class="text-xl font-serif text-navy mt-8 mb-3">Akuisisi Saham (<em>Share Acquisition</em>)</h3>
+            <p class="mb-4">Pembeli mengakuisisi saham dari pemegang saham yang ada, sehingga semua aset, liabilitas, kontrak, dan kewajiban perusahaan target — termasuk yang tersembunyi (<em>hidden liabilities</em>) — ikut beralih kepada pembeli. Kelebihan struktur ini adalah kontinuitas bisnis dan perizinan yang relatif lebih sederhana. Kelemahannya adalah eksposur terhadap risiko historis perusahaan target.</p>
+
+            <h3 class="text-xl font-serif text-navy mt-8 mb-3">Akuisisi Aset (<em>Asset Acquisition</em>)</h3>
+            <p class="mb-6">Pembeli mengakuisisi aset-aset tertentu dari perusahaan target, bukan entitas hukumnya. Pembeli dapat memilih aset mana yang diinginkan dan meninggalkan kewajiban yang tidak dikehendaki — namun proses transfer aset individual (termasuk perizinan dan kontrak) dapat sangat panjang dan kompleks.</p>
+
+            <h2 class="text-2xl font-serif text-navy mt-10 mb-4">Proses Due Diligence Hukum</h2>
+            <p class="mb-4"><em>Legal due diligence</em> adalah proses investigasi komprehensif terhadap kondisi hukum perusahaan target. Ruang lingkup due diligence hukum dalam M&A di Indonesia mencakup:</p>
+            <p class="mb-2"><strong>Korporat:</strong> Verifikasi status badan hukum, struktur kepemilikan, anggaran dasar, dan resolusi RUPS material.</p>
+            <p class="mb-2"><strong>Perizinan:</strong> Audit kelengkapan dan validitas seluruh izin usaha, termasuk NIB, izin sektoral, dan sertifikasi lingkungan hidup.</p>
+            <p class="mb-2"><strong>Kontraktual:</strong> Review seluruh perjanjian material — terutama yang memuat klausul <em>change of control</em> yang dapat memberikan hak terminasi kepada counterparty saat terjadi akuisisi.</p>
+            <p class="mb-2"><strong>Ketenagakerjaan:</strong> Audit kepatuhan UU Ketenagakerjaan, termasuk perjanjian kerja, PKB, dan kewajiban pesangon.</p>
+            <p class="mb-6"><strong>Litigasi:</strong> Inventarisasi seluruh sengketa hukum yang sedang berlangsung atau yang berpotensi timbul.</p>
+
+            <div class="bg-gray-50 p-8 border-l-4 border-gold mt-12 mb-8">
+                <p class="text-sm italic text-navy">"Harga akuisisi yang terlihat murah bisa menjadi sangat mahal jika due diligence yang tidak tuntas menyembunyikan liabilitas yang jauh lebih besar dari nilai transaksi itu sendiri." — Eri Rossatria Law Firm</p>
+            </div>
+
+            <h2 class="text-2xl font-serif text-navy mt-10 mb-4">Regulasi Persaingan Usaha: Notifikasi KPPU</h2>
+            <p class="mb-4">Salah satu aspek yang sering tidak diantisipasi adalah kewajiban notifikasi kepada Komisi Pengawas Persaingan Usaha (KPPU). Berdasarkan Peraturan KPPU, akuisisi saham atau aset yang melampaui ambang batas nilai aset atau penjualan tertentu wajib diberitahukan kepada KPPU.</p>
+            <p class="mb-6">Kegagalan melakukan notifikasi KPPU secara tepat waktu dapat mengakibatkan denda administratif yang signifikan. Lebih jauh, KPPU memiliki kewenangan untuk menuntut pembatalan transaksi yang dinilai menciptakan praktik monopoli atau persaingan usaha tidak sehat.</p>
+
+            <h2 class="text-2xl font-serif text-navy mt-10 mb-4">Isu Ketenagakerjaan dalam M&A</h2>
+            <p class="mb-4">Akuisisi perusahaan tidak secara otomatis memberikan hak kepada pembeli untuk melakukan perubahan signifikan pada syarat dan kondisi kerja karyawan perusahaan target. Hukum ketenagakerjaan Indonesia memberikan perlindungan yang kuat bagi karyawan dalam konteks perubahan kepemilikan perusahaan.</p>
+            <p class="mb-6">Jika restrukturisasi tenaga kerja pasca-akuisisi diperlukan, rencana tersebut harus sudah dianalisis secara cermat <em>sebelum</em> penutupan transaksi, karena biaya pesangon yang timbul dapat secara material mempengaruhi valuasi dan struktur harga transaksi.</p>
+
+            <h2 class="text-2xl font-serif text-navy mt-10 mb-4">Tahap Penutupan Transaksi (<em>Closing</em>)</h2>
+            <p class="mb-4">Closing adalah tahap di mana transaksi secara resmi diselesaikan dan kepemilikan beralih. Dalam M&A di Indonesia, closing umumnya mensyaratkan:</p>
+            <p class="mb-2">— Penandatanganan Akta Jual Beli Saham di hadapan Notaris</p>
+            <p class="mb-2">— Pembuatan Akta Perubahan Pemegang Saham oleh Notaris</p>
+            <p class="mb-2">— Pengurusan persetujuan perubahan Anggaran Dasar di Kemenkumham (untuk perubahan yang memerlukan persetujuan)</p>
+            <p class="mb-6">— Pemberitahuan kepada otoritas terkait (BKPM untuk PT PMA, OJK untuk perusahaan di sektor keuangan, dll.)</p>
+
+            <h2 class="text-2xl font-serif text-navy mt-10 mb-4">Kesimpulan</h2>
+            <p class="mb-6">Keberhasilan transaksi M&A ditentukan jauh sebelum hari penandatanganan. Persiapan hukum yang matang — dari pemilihan struktur transaksi yang tepat, due diligence yang komprehensif, hingga perencanaan kepatuhan regulasi — adalah yang membedakan antara akuisisi yang menciptakan nilai dan akuisisi yang justru menciptakan masalah baru.</p>
+
+        </article>
+
+        <div class="mt-16 pt-10 border-t border-gray-200 text-center">
+            <h3 class="text-2xl font-serif text-navy mb-4">Merencanakan Akuisisi atau Diakuisisi?</h3>
+            <p class="text-navy/60 mb-8">Tim M&A kami berpengalaman mendampingi transaksi lintas sektor dengan nilai hingga ratusan miliar rupiah.</p>
+            <a href="/#contact" class="inline-block bg-navy text-white px-10 py-4 text-xs uppercase tracking-[0.2em] font-bold hover:bg-gold transition-all duration-300 shadow-xl">
+                Konsultasi Transaksi M&A
+            </a>
+        </div>
+    </main>
+
+    <footer class="bg-navy py-12 text-center text-white mt-12">
+        <p class="text-[10px] uppercase tracking-widest text-white/40 font-bold">
+            &copy; 2026 Eri Rossatria Law Firm. Semua Hak Dilindungi.
+        </p>
+    </footer>
+
+</body>
+</html>
