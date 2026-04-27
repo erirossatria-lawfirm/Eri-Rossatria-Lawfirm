@@ -6,31 +6,129 @@
     <title>Bisnis & Korporasi - Eri Rossatria Law Firm</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        navy: '#0A1128',
+                        gold: '#C5A059',
+                        champagne: '#F8F4EB'
+                    },
+                    fontFamily: {
+                        serif: ['Playfair Display', 'serif'],
+                        sans: ['Inter', 'sans-serif'],
+                    }
+                }
+            }
+        }
+    </script>
     <style>
-        body { font-family: 'Inter', sans-serif; }
-        .font-serif { font-family: 'Playfair Display', serif; }
-        .bg-navy { background-color: #0A1128; } /* Sesuaikan kode hex navy Anda */
-        .text-gold { color: #C5A059; } /* Sesuaikan kode hex gold Anda */
+        .serif-italic { font-style: italic; }
+        .article-card:hover .arrow-icon { transform: translateX(8px); }
     </style>
 </head>
-<body class="bg-white text-slate-900">
-    <nav class="bg-navy p-6 shadow-xl">
-        <div class="max-w-7xl mx-auto flex justify-between items-center">
+<body class="bg-champagne text-navy font-sans antialiased">
+
+    <nav class="bg-navy py-6 sticky top-0 z-50 shadow-2xl">
+        <div class="max-w-7xl mx-auto px-6 flex justify-between items-center">
             <a href="/" class="flex flex-col">
-                <span class="text-white font-serif text-xl">ERI ROSSATRIA</span>
-                <span class="text-gold text-[10px] uppercase tracking-[0.3em]">Law Firm</span>
+                <span class="text-white font-serif text-xl tracking-tight">ERI ROSSATRIA</span>
+                <span class="text-gold text-[10px] uppercase tracking-[0.4em] font-bold">Law Firm</span>
             </a>
-            <a href="/" class="text-white text-xs uppercase tracking-widest border border-white/20 px-4 py-2 hover:bg-gold hover:text-navy transition-all">Kembali ke Beranda</a>
+            <div class="flex items-center gap-6">
+                <a href="/" class="text-white/60 text-xs uppercase tracking-widest hover:text-gold transition-colors">Beranda</a>
+                <a href="/#contact" class="bg-gold text-navy px-5 py-2 text-[10px] uppercase tracking-widest font-bold hover:bg-white transition-all">Konsultasi</a>
+            </div>
         </div>
     </nav>
 
-    <main class="max-w-4xl mx-auto py-20 px-6">
-        <p class="text-gold uppercase tracking-[0.3em] text-xs font-bold mb-4">Edukasi Hukum</p>
-        <h1 class="text-5xl font-serif text-navy mb-8">Bisnis & Korporasi</h1>
-        
-        <div class="prose prose-lg max-w-none text-slate-700 leading-relaxed">
-            <p>Daftar artikel atau konten edukasi mengenai hukum bisnis akan muncul di sini...</p>
+    <header class="bg-navy py-20 px-6 relative overflow-hidden">
+        <div class="absolute inset-0 opacity-10">
+            <img src="https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&q=80&w=2000" class="w-full h-full object-cover grayscale" alt="background">
         </div>
+        <div class="max-w-5xl mx-auto relative z-10 text-center">
+            <p class="text-gold uppercase tracking-[0.4em] text-xs font-bold mb-4">Pusat Edukasi & Publikasi</p>
+            <h1 class="text-5xl md:text-7xl font-serif text-white mb-6">Bisnis & <span class="serif-italic text-gold">Korporasi</span></h1>
+            <div class="w-24 h-px bg-gold mx-auto"></div>
+        </div>
+    </header>
+
+    <main class="max-w-7xl mx-auto py-24 px-6">
+        
+        <div class="flex items-center justify-between mb-16 border-b border-navy/10 pb-8">
+            <div class="text-xs uppercase tracking-widest font-medium text-navy/40">
+                Menampilkan artikel dalam: <span class="text-navy">Bisnis & Korporasi</span>
+            </div>
+            <a href="/edukasi" class="text-xs font-bold text-gold hover:text-navy transition-colors tracking-widest">LIHAT SEMUA KATEGORI →</a>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
+            
+            <a href="/edukasi/bisnis-korporasi/klausul-kontrak-bisnis.html" class="article-card group bg-white p-10 shadow-sm border-t-4 border-gold hover:shadow-2xl transition-all duration-500 flex flex-col justify-between">
+                <div>
+                    <p class="text-gold text-[10px] uppercase tracking-[0.2em] font-bold mb-6">Legal Audit</p>
+                    <h2 class="text-2xl font-serif text-navy mb-4 leading-tight group-hover:text-gold transition-colors">Pentingnya Klausul Baku dalam Kontrak Bisnis 2026</h2>
+                    <p class="text-navy/60 text-sm leading-relaxed mb-8 italic">"Kesalahan satu kalimat dalam kontrak bisa menjadi celah kerugian miliaran rupiah."</p>
+                </div>
+                <div class="flex items-center text-[10px] font-bold uppercase tracking-widest text-navy pt-6 border-t border-navy/5">
+                    Baca Selengkapnya <span class="arrow-icon ml-2 transition-transform">→</span>
+                </div>
+            </a>
+
+            <a href="/edukasi/bisnis-korporasi/risiko-hukum-pma.html" class="article-card group bg-white p-10 shadow-sm border-t-4 border-gold hover:shadow-2xl transition-all duration-500 flex flex-col justify-between">
+                <div>
+                    <p class="text-gold text-[10px] uppercase tracking-[0.2em] font-bold mb-6">Investasi Asing</p>
+                    <h2 class="text-2xl font-serif text-navy mb-4 leading-tight group-hover:text-gold transition-colors">Mitigasi Risiko Hukum dalam Pendirian PT PMA</h2>
+                    <p class="text-navy/60 text-sm leading-relaxed mb-8">Panduan strategis bagi investor global untuk menavigasi regulasi OSS RBA di Indonesia.</p>
+                </div>
+                <div class="flex items-center text-[10px] font-bold uppercase tracking-widest text-navy pt-6 border-t border-navy/5">
+                    Baca Selengkapnya <span class="arrow-icon ml-2 transition-transform">→</span>
+                </div>
+            </a>
+
+            <a href="/edukasi/bisnis-korporasi/perlindungan-haki-startup.html" class="article-card group bg-white p-10 shadow-sm border-t-4 border-gold hover:shadow-2xl transition-all duration-500 flex flex-col justify-between">
+                <div>
+                    <p class="text-gold text-[10px] uppercase tracking-[0.2em] font-bold mb-6">Kekayaan Intelektual</p>
+                    <h2 class="text-2xl font-serif text-navy mb-4 leading-tight group-hover:text-gold transition-colors">Strategi Perlindungan HAKI bagi Startup Digital</h2>
+                    <p class="text-navy/60 text-sm leading-relaxed mb-8">Mengapa pendaftaran merek dan hak cipta harus dilakukan sebelum peluncuran produk.</p>
+                </div>
+                <div class="flex items-center text-[10px] font-bold uppercase tracking-widest text-navy pt-6 border-t border-navy/5">
+                    Baca Selengkapnya <span class="arrow-icon ml-2 transition-transform">→</span>
+                </div>
+            </a>
+
+            <a href="/edukasi/bisnis-korporasi/hukum-merger-akuisisi.html" class="article-card group bg-white p-10 shadow-sm border-t-4 border-gold hover:shadow-2xl transition-all duration-500 flex flex-col justify-between">
+                <div>
+                    <p class="text-gold text-[10px] uppercase tracking-[0.2em] font-bold mb-6">M&A</p>
+                    <h2 class="text-2xl font-serif text-navy mb-4 leading-tight group-hover:text-gold transition-colors">Aspek Hukum dalam Proses Merger & Akuisisi</h2>
+                    <p class="text-navy/60 text-sm leading-relaxed mb-8">Memahami Due Diligence dan sinkronisasi budaya hukum perusahaan pasca akuisisi.</p>
+                </div>
+                <div class="flex items-center text-[10px] font-bold uppercase tracking-widest text-navy pt-6 border-t border-navy/5">
+                    Baca Selengkapnya <span class="arrow-icon ml-2 transition-transform">→</span>
+                </div>
+            </a>
+
+        </div>
+
+        <section class="mt-32 bg-navy p-12 md:p-20 relative overflow-hidden">
+            <div class="relative z-10 grid md:grid-cols-2 items-center gap-12">
+                <div>
+                    <h2 class="text-3xl md:text-4xl font-serif text-white mb-6">Butuh Analisis Hukum <span class="text-gold">Spesifik?</span></h2>
+                    <p class="text-white/60 mb-8 max-w-md">Tim kami siap membantu Anda meninjau dokumen legal, menyusun kontrak, atau memberikan pendapat hukum profesional untuk bisnis Anda.</p>
+                    <a href="https://wa.me/628111005129" class="inline-block bg-gold text-navy px-10 py-4 text-xs uppercase tracking-widest font-bold hover:bg-white transition-all">Hubungi WhatsApp Kami</a>
+                </div>
+                <div class="hidden md:block">
+                    <img src="https://images.unsplash.com/photo-1505664194779-8beaceb93744?auto=format&fit=crop&q=80&w=800" class="w-full h-80 object-cover border-8 border-white/5" alt="consultation">
+                </div>
+            </div>
+        </section>
+
     </main>
+
+    <footer class="bg-navy py-12 border-t border-white/5 text-center text-white/30 text-[10px] uppercase tracking-[0.3em]">
+        © 2026 Eri Rossatria Law Firm. All Rights Reserved.
+    </footer>
+
 </body>
 </html>
