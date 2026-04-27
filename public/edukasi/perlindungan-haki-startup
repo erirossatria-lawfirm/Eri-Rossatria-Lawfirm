@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perlindungan HAKI untuk Startup dan UKM Indonesia | Eri Rossatria Law Firm</title>
+    <meta name="description" content="Panduan praktis perlindungan hak kekayaan intelektual (HAKI) untuk startup dan UKM Indonesia: merek, hak cipta, paten, dan rahasia dagang.">
+    <meta name="keywords" content="HAKI, hak kekayaan intelektual, merek dagang, paten, hak cipta, startup Indonesia, UKM, lawyer Jakarta, Eri Rossatria">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: { navy: '#0f172a', gold: '#d4af37', champagne: '#f8f9fa' },
+                    fontFamily: { serif: ['Georgia', 'serif'], sans: ['Inter', 'sans-serif'] }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="bg-champagne text-navy font-sans antialiased selection:bg-gold selection:text-navy">
+
+    <nav class="bg-navy py-6 sticky top-0 z-50 shadow-xl">
+        <div class="max-w-3xl mx-auto px-6 flex justify-between items-center">
+            <a href="/" class="flex flex-col hover:opacity-80 transition-opacity">
+                <span class="text-xl font-serif text-white tracking-tight">ERI ROSSATRIA</span>
+                <span class="text-[10px] uppercase tracking-[0.4em] text-gold font-semibold">Law Firm</span>
+            </a>
+            <a href="/#contact" class="text-xs uppercase tracking-widest text-white hover:text-gold transition-colors">Konsultasi</a>
+        </div>
+    </nav>
+
+    <header class="bg-white py-16 border-b border-gray-200">
+        <div class="max-w-3xl mx-auto px-6 text-center">
+            <p class="text-gold text-xs uppercase tracking-widest font-bold mb-4">Hak Kekayaan Intelektual</p>
+            <h1 class="text-3xl md:text-5xl font-serif leading-tight mb-6 text-navy">
+                Perlindungan HAKI untuk Startup dan UKM: Aset Tak Berwujud yang Menentukan Nilai Bisnis Anda
+            </h1>
+            <p class="text-sm text-navy/60 font-medium">Ditulis oleh: Tim Legal Eri Rossatria | 26 April 2026</p>
+        </div>
+    </header>
+
+    <main class="max-w-3xl mx-auto px-6 py-16 bg-white shadow-sm">
+        <article class="prose prose-lg prose-slate max-w-none text-navy/80 leading-relaxed">
+
+            <p class="mb-6">Di era ekonomi digital, aset tak berwujud sering kali bernilai lebih tinggi dari aset fisik perusahaan. Nama merek yang kuat, algoritma inovatif, atau konten digital yang viral bisa menjadi aset bernilai miliaran rupiah — namun tanpa perlindungan hukum yang tepat, semua itu rentan dieksploitasi oleh pihak lain. Ironisnya, perlindungan HAKI adalah salah satu aspek yang paling sering diabaikan oleh startup dan UKM di Indonesia.</p>
+
+            <h2 class="text-2xl font-serif text-navy mt-10 mb-4">Mengapa HAKI Kritis bagi Startup?</h2>
+            <p class="mb-4">Bagi investor ventura, portofolio HAKI yang terdaftar adalah indikator kematangan bisnis dan daya saing jangka panjang. Due diligence investasi hampir selalu mencakup audit HAKI — dan startup yang tidak memiliki perlindungan HAKI yang solid akan mendapatkan penilaian yang jauh lebih rendah, atau bahkan dianggap tidak layak investasi.</p>
+            <p class="mb-6">Lebih dari itu, sengketa merek dagang atau hak cipta yang tiba-tiba dapat melumpuhkan operasional bisnis di tengah fase pertumbuhan yang kritis. Satu gugatan pelanggaran merek dari kompetitor yang lebih dahulu mendaftarkan nama yang mirip bisa memaksa startup untuk rebranding total — dengan biaya waktu dan finansial yang sangat besar.</p>
+
+            <h2 class="text-2xl font-serif text-navy mt-10 mb-4">Empat Pilar Perlindungan HAKI yang Harus Diketahui</h2>
+
+            <h3 class="text-xl font-serif text-navy mt-8 mb-3">1. Pendaftaran Merek Dagang</h3>
+            <p class="mb-4">Merek dagang melindungi identitas komersial bisnis Anda: nama, logo, slogan, bahkan warna tertentu yang khas. Di Indonesia, pendaftaran merek diproses oleh Direktorat Jenderal Kekayaan Intelektual (DJKI) Kemenkumham dan memberikan perlindungan eksklusif selama 10 tahun (dapat diperpanjang).</p>
+            <p class="mb-4">Kesalahan fatal yang sering dilakukan: menunggu bisnis "sudah besar" sebelum mendaftarkan merek. Sistem merek Indonesia menganut prinsip <em>first-to-file</em>, bukan <em>first-to-use</em>. Artinya, siapapun yang lebih dahulu mendaftarkan merek tersebut akan mendapatkan hak eksklusif atasnya — terlepas dari siapa yang lebih dahulu menggunakannya.</p>
+            <p class="mb-6">Daftarkan merek Anda sesegera mungkin, bahkan sebelum peluncuran resmi bisnis. Pastikan juga untuk mendaftarkan merek di seluruh kelas yang relevan dengan lini bisnis Anda saat ini <em>dan</em> yang direncanakan.</p>
+
+            <h3 class="text-xl font-serif text-navy mt-8 mb-3">2. Hak Cipta untuk Konten Digital dan Perangkat Lunak</h3>
+            <p class="mb-4">Hak cipta di Indonesia melekat secara otomatis pada saat karya diciptakan — pendaftaran bersifat opsional namun sangat direkomendasikan untuk keperluan pembuktian. Hak cipta melindungi ekspresi kreatif: kode program, desain antarmuka, konten tulisan, musik, dan karya audiovisual.</p>
+            <p class="mb-6">Perhatikan bahwa hak cipta <em>tidak</em> melindungi ide, konsep, atau metode bisnis. Jika inovasi bisnis Anda terletak pada prosesnya, perlindungan yang tepat adalah paten, bukan hak cipta.</p>
+
+            <div class="bg-gray-50 p-8 border-l-4 border-gold mt-12 mb-8">
+                <p class="text-sm italic text-navy">"Nama merek yang belum terdaftar ibarat toko yang tidak dikunci. Anda mungkin merasa aman karena belum pernah dibobol, tetapi risikonya ada setiap saat." — Eri Rossatria Law Firm</p>
+            </div>
+
+            <h3 class="text-xl font-serif text-navy mt-8 mb-3">3. Paten untuk Inovasi Teknologi</h3>
+            <p class="mb-4">Paten memberikan hak monopoli kepada inventor untuk mengeksploitasi penemuannya secara eksklusif selama 20 tahun (paten biasa) atau 10 tahun (paten sederhana). Proses pengajuan paten membutuhkan deskripsi teknis yang sangat detail dan spesifik — kesalahan dalam penyusunan klaim paten dapat membatasi ruang lingkup perlindungan secara signifikan.</p>
+            <p class="mb-6">Untuk startup teknologi, penting untuk memahami bahwa tidak semua inovasi dapat dipatenkan. Program komputer yang bekerja murni sebagai perangkat lunak, misalnya, memiliki batasan perlindungan paten yang berbeda di Indonesia dibandingkan di Amerika Serikat atau Eropa.</p>
+
+            <h3 class="text-xl font-serif text-navy mt-8 mb-3">4. Rahasia Dagang (<em>Trade Secret</em>)</h3>
+            <p class="mb-6">Tidak semua inovasi perlu atau bahkan harus didaftarkan. Formula, metode produksi, atau algoritma yang nilainya justru terletak pada kerahasiaannya lebih baik dilindungi sebagai rahasia dagang. Perlindungan rahasia dagang bergantung pada seberapa ketat perusahaan menjaga kerahasiaannya — melalui perjanjian kerahasiaan (NDA) dengan karyawan dan mitra, serta kontrol akses terhadap informasi sensitif.</p>
+
+            <h2 class="text-2xl font-serif text-navy mt-10 mb-4">Langkah Praktis Membangun Portofolio HAKI</h2>
+            <p class="mb-4">Mulailah dengan audit HAKI sederhana: inventarisasi semua aset intelektual yang dimiliki bisnis Anda, kategorikan berdasarkan jenis perlindungan yang sesuai, dan prioritaskan pendaftaran berdasarkan nilai komersial dan risiko pelanggaran.</p>
+            <p class="mb-6">Untuk startup yang berencana ekspansi internasional, pertimbangkan strategi pendaftaran merek internasional melalui sistem Madrid (WIPO) yang memungkinkan pendaftaran di banyak negara sekaligus dengan satu aplikasi.</p>
+
+            <h2 class="text-2xl font-serif text-navy mt-10 mb-4">Kesimpulan</h2>
+            <p class="mb-6">Membangun portofolio HAKI yang solid bukan kemewahan yang hanya bisa dilakukan perusahaan besar. Ini adalah kebutuhan fundamental bagi setiap bisnis yang ingin tumbuh secara berkelanjutan. Semakin awal Anda mulai, semakin kecil risiko dan biaya yang harus dikeluarkan di kemudian hari.</p>
+
+        </article>
+
+        <div class="mt-16 pt-10 border-t border-gray-200 text-center">
+            <h3 class="text-2xl font-serif text-navy mb-4">Mulai Lindungi Aset Intelektual Bisnis Anda Hari Ini</h3>
+            <p class="text-navy/60 mb-8">Kami membantu startup dan UKM menyusun strategi HAKI yang komprehensif dan sesuai anggaran.</p>
+            <a href="/#contact" class="inline-block bg-navy text-white px-10 py-4 text-xs uppercase tracking-[0.2em] font-bold hover:bg-gold transition-all duration-300 shadow-xl">
+                Konsultasi HAKI
+            </a>
+        </div>
+    </main>
+
+    <footer class="bg-navy py-12 text-center text-white mt-12">
+        <p class="text-[10px] uppercase tracking-widest text-white/40 font-bold">
+            &copy; 2026 Eri Rossatria Law Firm. Semua Hak Dilindungi.
+        </p>
+    </footer>
+
+</body>
+</html>
