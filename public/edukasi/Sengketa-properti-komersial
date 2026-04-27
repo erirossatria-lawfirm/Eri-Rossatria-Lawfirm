@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sengketa Properti Komersial di Indonesia: Panduan Hukum untuk Investor | Eri Rossatria Law Firm</title>
+    <meta name="description" content="Memahami lanskap hukum sengketa properti komersial di Indonesia: dari sertifikat ganda hingga sengketa sewa, dan strategi hukum untuk mengatasinya.">
+    <meta name="keywords" content="sengketa properti, hukum properti Indonesia, sertifikat tanah, sengketa sewa, hak atas tanah, lawyer Jakarta, Eri Rossatria">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: { navy: '#0f172a', gold: '#d4af37', champagne: '#f8f9fa' },
+                    fontFamily: { serif: ['Georgia', 'serif'], sans: ['Inter', 'sans-serif'] }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="bg-champagne text-navy font-sans antialiased selection:bg-gold selection:text-navy">
+
+    <nav class="bg-navy py-6 sticky top-0 z-50 shadow-xl">
+        <div class="max-w-3xl mx-auto px-6 flex justify-between items-center">
+            <a href="/" class="flex flex-col hover:opacity-80 transition-opacity">
+                <span class="text-xl font-serif text-white tracking-tight">ERI ROSSATRIA</span>
+                <span class="text-[10px] uppercase tracking-[0.4em] text-gold font-semibold">Law Firm</span>
+            </a>
+            <a href="/#contact" class="text-xs uppercase tracking-widest text-white hover:text-gold transition-colors">Konsultasi</a>
+        </div>
+    </nav>
+
+    <header class="bg-white py-16 border-b border-gray-200">
+        <div class="max-w-3xl mx-auto px-6 text-center">
+            <p class="text-gold text-xs uppercase tracking-widest font-bold mb-4">Hukum Properti & Real Estate</p>
+            <h1 class="text-3xl md:text-5xl font-serif leading-tight mb-6 text-navy">
+                Sengketa Properti Komersial di Indonesia: Panduan Hukum untuk Investor dan Pemilik Usaha
+            </h1>
+            <p class="text-sm text-navy/60 font-medium">Ditulis oleh: Tim Legal Eri Rossatria | 25 April 2026</p>
+        </div>
+    </header>
+
+    <main class="max-w-3xl mx-auto px-6 py-16 bg-white shadow-sm">
+        <article class="prose prose-lg prose-slate max-w-none text-navy/80 leading-relaxed">
+
+            <p class="mb-6">Properti komersial — mulai dari gedung perkantoran, ruang ritel, hingga kawasan industri — adalah salah satu aset bisnis dengan nilai tertinggi sekaligus sumber sengketa hukum yang paling kompleks di Indonesia. Lanskap hukum pertanahan Indonesia yang masih dalam tahap transformasi digital menciptakan celah-celah yang rentan dieksploitasi, baik oleh pihak yang beritikad buruk maupun oleh kesalahan administratif yang tidak disengaja.</p>
+
+            <h2 class="text-2xl font-serif text-navy mt-10 mb-4">Jenis Sengketa Properti yang Paling Sering Terjadi</h2>
+            <p class="mb-4">Sebelum membahas strategi, penting untuk memahami tipologi sengketa properti komersial yang paling umum ditemui dalam praktik hukum di Indonesia:</p>
+
+            <h3 class="text-xl font-serif text-navy mt-8 mb-3">a. Sertifikat Ganda (<em>Overlapping Certificate</em>)</h3>
+            <p class="mb-4">Meskipun sistem pendaftaran tanah digital (PTSL) terus ditingkatkan, kasus sertifikat ganda masih cukup umum — terutama di daerah yang baru mengalami urbanisasi cepat. Sertifikat ganda terjadi ketika dua pihak memiliki sertifikat hak atas tanah yang berbeda untuk bidang tanah yang sama atau tumpang tindih.</p>
+            <p class="mb-6">Penyelesaian sertifikat ganda memerlukan prosedur pembatalan sertifikat di BPN (Badan Pertanahan Nasional) yang dapat berlangsung bertahun-tahun jika disertai gugatan di pengadilan tata usaha negara (PTUN).</p>
+
+            <h3 class="text-xl font-serif text-navy mt-8 mb-3">b. Wanprestasi dalam Perjanjian Pengikatan Jual Beli (PPJB)</h3>
+            <p class="mb-4">PPJB adalah instrumen yang lazim digunakan saat Akta Jual Beli (AJB) belum dapat dibuat karena sertifikat masih dalam proses atau kredit pemilikan properti belum selesai. Masalah timbul ketika salah satu pihak tidak memenuhi kewajiban yang disepakati dalam PPJB — baik pembayaran maupun penyerahan dokumen.</p>
+            <p class="mb-6">PPJB yang tidak dinotariskan memiliki kekuatan pembuktian yang lebih lemah di pengadilan. Namun demikian, PPJB di bawah tangan tetap dapat menjadi dasar gugatan wanprestasi berdasarkan Pasal 1243 KUH Perdata.</p>
+
+            <div class="bg-gray-50 p-8 border-l-4 border-gold mt-12 mb-8">
+                <p class="text-sm italic text-navy">"Dalam hukum properti, due diligence yang tidak tuntas bukan sekadar risiko bisnis — ia adalah undangan untuk sengketa yang mungkin tidak pernah berakhir." — Eri Rossatria Law Firm</p>
+            </div>
+
+            <h3 class="text-xl font-serif text-navy mt-8 mb-3">c. Sengketa Perjanjian Sewa Komersial</h3>
+            <p class="mb-4">Sengketa sewa-menyewa properti komersial mencakup spektrum yang luas: dari sengketa tentang kenaikan harga sewa yang tidak disepakati, penggunaan properti di luar peruntukan, hingga penolakan pengosongan oleh penyewa yang masa sewanya telah berakhir (<em>holdover tenant</em>).</p>
+            <p class="mb-6">Indonesia tidak memiliki undang-undang sewa komersial khusus seperti yang berlaku di beberapa negara lain. Hal ini membuat sengketa sewa sangat bergantung pada konstruksi kontrak perjanjian sewa yang telah disepakati, sehingga kualitas perjanjian sewa menjadi faktor penentu utama.</p>
+
+            <h2 class="text-2xl font-serif text-navy mt-10 mb-4">Strategi Hukum dalam Menghadapi Sengketa Properti</h2>
+
+            <h3 class="text-xl font-serif text-navy mt-8 mb-3">1. Lakukan <em>Due Diligence</em> Properti Secara Menyeluruh</h3>
+            <p class="mb-6">Sebelum transaksi properti apapun, pastikan <em>due diligence</em> mencakup: verifikasi sertifikat di kantor BPN setempat (bukan hanya fotokopi), pengecekan riwayat kepemilikan (<em>chain of title</em>), status pajak bumi dan bangunan, potensi sengketa yang sedang berlangsung, dan kesesuaian peruntukan lahan dengan Rencana Tata Ruang Wilayah (RTRW).</p>
+
+            <h3 class="text-xl font-serif text-navy mt-8 mb-3">2. Prioritaskan Penyelesaian di Luar Pengadilan</h3>
+            <p class="mb-6">Litigasi sengketa properti di Indonesia rata-rata membutuhkan 3 hingga 7 tahun untuk mendapatkan putusan yang berkekuatan hukum tetap, dengan biaya yang sangat signifikan. Mediasi melalui lembaga mediasi independen atau fasilitasi BPN adalah jalur yang jauh lebih efisien untuk sengketa yang tidak melibatkan dugaan penipuan.</p>
+
+            <h3 class="text-xl font-serif text-navy mt-8 mb-3">3. Amankan Aset Melalui Sita Jaminan (<em>Conservatoir Beslag</em>)</h3>
+            <p class="mb-6">Dalam kasus di mana terdapat risiko pihak lawan mengalihkan atau merusak aset yang menjadi objek sengketa, pengajuan permohonan sita jaminan kepada pengadilan dapat menjadi langkah kritis untuk melindungi nilai aset selama proses hukum berlangsung.</p>
+
+            <h2 class="text-2xl font-serif text-navy mt-10 mb-4">Kesimpulan</h2>
+            <p class="mb-6">Sengketa properti komersial adalah medan yang tidak boleh dihadapi tanpa persiapan hukum yang matang. Pendampingan dari konsultan hukum yang berpengalaman dalam hukum pertanahan dan properti — bukan sekadar konsultan hukum umum — adalah investasi yang akan menentukan hasil dari setiap sengketa yang Anda hadapi.</p>
+
+        </article>
+
+        <div class="mt-16 pt-10 border-t border-gray-200 text-center">
+            <h3 class="text-2xl font-serif text-navy mb-4">Menghadapi Sengketa Properti?</h3>
+            <p class="text-navy/60 mb-8">Kami siap menganalisis posisi hukum Anda dan menyusun strategi terbaik untuk melindungi aset properti Anda.</p>
+            <a href="/#contact" class="inline-block bg-navy text-white px-10 py-4 text-xs uppercase tracking-[0.2em] font-bold hover:bg-gold transition-all duration-300 shadow-xl">
+                Konsultasi Sekarang
+            </a>
+        </div>
+    </main>
+
+    <footer class="bg-navy py-12 text-center text-white mt-12">
+        <p class="text-[10px] uppercase tracking-widest text-white/40 font-bold">
+            &copy; 2026 Eri Rossatria Law Firm. Semua Hak Dilindungi.
+        </p>
+    </footer>
+
+</body>
+</html>
